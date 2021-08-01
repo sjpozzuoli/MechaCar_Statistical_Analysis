@@ -37,7 +37,8 @@
 
    ![T_Test_Lot3_Subset](https://user-images.githubusercontent.com/81929616/127787229-94e37867-80ba-45c9-9cd8-aba0dccd0dad.PNG)
 
-- Lot 1 has a p-value of 1, which means we can not reject our null hypothesis.
-- Lot 2 has a p-value of 0.61, which means we, also, can not reject our null hypothesis.
-- Lot 3 has a p-value of 0.04, which means that we can reject our null hypothesis beacause the value is lower than 0.05 significance level.
+- Lot 1 has a p-value of 1, which means we can not reject our null hypothesis and the two means are statistically similar.
+- Lot 2 has a p-value of 0.61, which means we, also, can not reject our null hypothesis and the two means are statistically similar.
+- Lot 3 has a p-value of 0.04, which means that we can reject our null hypothesis beacause the value is lower than 0.05 significance level and the means are not statistically similar.
+
 ## Study Design: MechaCar vs Competition
