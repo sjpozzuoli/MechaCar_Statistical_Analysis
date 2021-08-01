@@ -23,5 +23,21 @@
 
 ## T-Tests on Suspension Coils
 
+#### Summary of the t-test results across all of the manufacturing lots
 
+   ![T_Test](https://user-images.githubusercontent.com/81929616/127787137-5118a92f-89ae-4183-9259-fc570f05884d.PNG)
+
+- Looking at the results of the t-test, the mean is the same as we saw above, at 1498.78. The p-value is 0.06, which means that we can not reject our null hypothesis.
+
+#### Summary of the t-test results for each manufacturing lot
+
+   ![T_Test_Lot1_Subset](https://user-images.githubusercontent.com/81929616/127787226-eddbe7c3-5f3e-411a-902c-1f84dd61d304.PNG)
+
+   ![T_Test_Lot2_Subset](https://user-images.githubusercontent.com/81929616/127787228-40a51ebd-164a-4f2c-a58c-07a64aa697e8.PNG)
+
+   ![T_Test_Lot3_Subset](https://user-images.githubusercontent.com/81929616/127787229-94e37867-80ba-45c9-9cd8-aba0dccd0dad.PNG)
+
+- Lot 1 has a p-value of 1, which means we can not reject our null hypothesis.
+- Lot 2 has a p-value of 0.61, which means we, also, can not reject our null hypothesis.
+- Lot 3 has a p-value of 0.04, which means that we can reject our null hypothesis beacause the value is lower than 0.05 significance level.
 ## Study Design: MechaCar vs Competition
