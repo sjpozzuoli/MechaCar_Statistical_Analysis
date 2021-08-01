@@ -42,3 +42,5 @@
 - Lot 3 has a p-value of 0.04, which means that we can reject our null hypothesis beacause the value is lower than 0.05 significance level and the means are not statistically similar.
 
 ## Study Design: MechaCar vs Competition
+
+#### There are many factors that people examine when trying to decide which type of car to buy. Some of them have to do with family dynamics, i.e. do they have children, and if so how many, are they single, do they own a business, etc, while others are strictly making a decision based on cost. 
