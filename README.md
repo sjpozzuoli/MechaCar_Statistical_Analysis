@@ -4,7 +4,7 @@
 
 #### Summary statistics of the Linear Regression to predict MPG
 
-![LinearRegressionToPredictMPG](https://user-images.githubusercontent.com/81929616/127785290-d32440d1-0fe1-40ba-82a0-16e4e83204b3.PNG)
+   ![LinearRegressionToPredictMPG](https://user-images.githubusercontent.com/81929616/127785290-d32440d1-0fe1-40ba-82a0-16e4e83204b3.PNG)
 
 1. The variables that provided a non-random amount of variance to the mgp values in the dataset are vehicle weight, spoiler angle and AWD. 
 2. The slope of the linear model is not considered to be zero based on the p-value of 5.35 e-11.
