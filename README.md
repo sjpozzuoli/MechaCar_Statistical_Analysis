@@ -44,3 +44,7 @@
 ## Study Design: MechaCar vs Competition
 
 #### There are many factors that people examine when trying to decide which type of car to buy. Some of them have to do with family dynamics, i.e. do they have children, and if so how many, are they single, do they own a business, etc, while others are strictly making a decision based on cost. 
+
+#### With the rising prices of fuel and the effects the pandemic had on many people across the country, I would like to concentrate on comparing MechaCar to the competition using overall cost, and city and highway fuel efficiency numbers. 
+
+#### My null hypothesis for this comparison would be: If MechaCar's vehicles are not more fuel efficient than the competition, then we will not see a difference in city and highway fuel efficiency numbers. By comparing the data from multiple different vehicles in the same size class, we would attempt to prove this right or wrong by first using a linear regression to predict MPG for the compeition based on the same data points we used above for MechaCar (vehicle length, vehicle width, spoiler angle, ground clearance and AWD). After receiving those values, we could compare them to MechaCar and determine the costs that would be associated with the vehicle.
